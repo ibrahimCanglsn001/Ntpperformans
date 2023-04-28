@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.exe
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.deps.json
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.runtimeconfig.json
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.runtimeconfig.dev.json
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.dll
+C:\Users\User\Downloads\NtpPerformans\bin\Debug\net5.0\NtpPerformans.pdb
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.AssemblyInfo.cs
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.dll
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\refint\NtpPerformans.dll
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.pdb
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\NtpPerformans.genruntimeconfig.cache
+C:\Users\User\Downloads\NtpPerformans\obj\Debug\net5.0\ref\NtpPerformans.dll
